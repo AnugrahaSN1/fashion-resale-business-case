@@ -6,7 +6,7 @@ The idea is simple: customers bring back clothes they don't wear any more, get a
 
 This project builds the business case in Python. Because most of the inputs are uncertain, it doesn't use one set of guesses. It uses a Monte Carlo simulation: every input is a range, the year is simulated 10,000 times, and the result is a probability of making money rather than a single number.
 
-**Live report:** [View the business case](https://anugrahasn1.github.io/fashion-resale-circular-business-case/)
+**Live report:** [View the business case]https://anugrahasn1.github.io/fashion-resale-business-case/
 ## What it compares
 
 Two ways of running the programme:
